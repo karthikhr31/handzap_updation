@@ -1,0 +1,44 @@
+@CHARSET "ISO-8859-1";
+.mycolor1
+{
+	background:#8bc34a !important;
+}
+.mycolor2
+{
+	background:#ff9800 !important;
+}
+.mycolor3
+{
+	background:#e91e63  !important;
+}
+.mycolor4
+{
+	background:#2196f3  !important;
+}
+.mycolor5
+{
+	background:#f44336  !important;
+}
+.mycolor6
+{
+	background:#607d8b !important;
+}
+.mycolor7
+{
+	background:#cddc39  !important;
+}
+.mycolor8
+{
+	background:#9c27b0  !important;
+}
+.iconColor
+{
+	color:#FFF;
+}
+body
+{
+	background-color:lightblue;
+}
+h3
+{
+	color:#e91e63;
